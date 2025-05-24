@@ -1,0 +1,14 @@
+course-registration-system/
+├── client/               # React frontend
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...
+├── server/               # Node.js backend
+│   ├── routes/
+│   ├── models/
+│   ├── server.js
+│   ├── .env
+│   ├── package.json
+│   └── ...
+├── README.md
